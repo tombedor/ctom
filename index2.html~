@@ -19,7 +19,7 @@
 
 
 	<div id="menu" class="box"> 
-		<ul>
+			<ul>
 			<li> Welcome to Cool Thing of the Month Club.</li>
 			<li><a href="">FAQ</a></li>
 			<li><a href="">IAQ</a></li>
@@ -30,12 +30,12 @@
 
 	<div id="main" class="box">
 		
-			<p> Welcome to <strong> Cool Thing of the Month Club</strong>. If you have any questions, please refer to the <a href="">FAQ</a>, or <a href="">IAQ</a>. If you'd like to join, please refer to <a href="">I'd like to join</a>."</p>
+			<p> </p>
+		
 	</div>
 
 	<div id="footer" class="box">
-		<p> This page was last update on: SOME TIME.</p>
-		<a href="">Credits</a>
+		
 	</div>
 
 </body>

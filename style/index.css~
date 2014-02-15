@@ -1,2 +1,17 @@
+/* Size Units:
+fonts = em (scales, will work on mobile)
+*/
 
+.box { position: relative; width: 200px; height: 200px;}
 
+#menu{
+background: #ee3e64
+}
+
+#main{
+background: #44accf;
+}
+
+#footer{
+background: #b7d84b;
+}
