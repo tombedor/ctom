@@ -2,16 +2,56 @@
 fonts = em (scales, will work on mobile)
 */
 
-.box { position: relative; width: 100%; height: 200px;}
+body{
+font-family: "Gill Sans", "sans-serif", "ITC Franklin Gothic", Arial, sans-serif, ultra-expanded;
 
-#menu{
-background: #ee3e64
 }
 
-#main{
+.head{
+display: inline-block;
+height:15%;
+vertical-align:top;
+}
+
+.menu{
+position:relative;
+background: #ee3e64;
+width: 20%;
+top:15%;
+height: 100px;
+float:left
+}
+
+.main{
+
+width: 80%;
+height: 1000px;
+bottom:0px;
+position:relative;
 background: #44accf;
+float:right
 }
 
-#footer{
+.footer{
+bottom: 0px;
+position:relative;
 background: #b7d84b;
 }
+
+body{
+	position: relative;
+/*background:y;*/
+
+}
+
+h1{
+	position:relative;
+	display: inline-block;
+}
+
+p,ul,h2,a {
+	background:red;
+	position: relative;
+}
+
+
